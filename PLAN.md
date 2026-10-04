@@ -23,6 +23,6 @@ Create the site directly in the repository root, including `index.md`, `_config.
 
 ## Assumptions to confirm
 
-- Use the LinkedIn Tanium dates, **June 2026–Present**, because they are the later/current dates provided; the résumé instead says June–August 2026.
+- Use the résumé Tanium dates, **June–August 2026**, as confirmed by the user; the LinkedIn text instead says June 2026–Present.
 - Use the email address in the uploaded résumé for the public mailto link, as explicitly approved.
 - No headshot, custom logo, or additional project descriptions were provided, so the initial site will not invent or require them.
