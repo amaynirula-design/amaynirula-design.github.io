@@ -1,0 +1,24 @@
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f7f6">
+  {% seo %}
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <script>
+    (() => {
+      let savedTheme = null;
+      try {
+        savedTheme = window.localStorage.getItem("amay-theme");
+      } catch (_) {
+        // The system preference remains available when storage is disabled.
+      }
+      const systemPrefersDark = window.matchMedia &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches;
+      document.documentElement.dataset.theme =
+        savedTheme === "dark" || savedTheme === "light"
+          ? savedTheme
+          : (systemPrefersDark ? "dark" : "light");
+      document.documentElement.classList.add("js");
+    })();
+  </script>
+  <script defer src="{{ '/assets/js/theme.js' | relative_url }}"></script>

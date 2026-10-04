@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="home">
+  <header class="home__hero">
+    <p class="eyebrow">{{ page.eyebrow | escape }}</p>
+    <h1 class="home__title">{{ page.hero_title | escape }}</h1>
+    <p class="home__lede">{{ page.lede | escape }}</p>
+    <div class="home__actions">
+      <a class="text-link text-link--strong" href="{{ '/experience/' | relative_url }}">Explore my experience <span aria-hidden="true">↗</span></a>
+      <a class="text-link" href="{{ '/contact/' | relative_url }}">Get in touch</a>
+    </div>
+  </header>
+  <div class="prose home__content">
+    {{ content }}
+  </div>
+</article>

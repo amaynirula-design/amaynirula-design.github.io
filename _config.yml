@@ -1,0 +1,36 @@
+title: Amay Nirula
+description: Engineer-turned product manager bridging technical depth and business strategy.
+url: "https://amaynirula-design.github.io"
+baseurl: ""
+lang: en
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Experience
+    url: /experience/
+  - title: Contact
+    url: /contact/
+
+exclude:
+  - attached_assets
+  - .agents
+  - .local
+  - .cache
+  - .git
+  - .gitignore
+  - PLAN.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - _site
