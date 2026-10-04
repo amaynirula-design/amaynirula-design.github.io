@@ -1,5 +1,5 @@
 title: Amay Nirula
-description: Engineer-turned product manager bridging technical depth and business strategy.
+description: Project manager with six years managing large construction and industrial project portfolios, transitioning into tech product management.
 url: "https://amaynirula-design.github.io"
 baseurl: ""
 lang: en
@@ -21,6 +21,7 @@ exclude:
   - .replit
   - PLAN.md
   - README.md
+  - Change1.md
   - Gemfile
   - Gemfile.lock
   - vendor

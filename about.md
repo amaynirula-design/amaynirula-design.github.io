@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-description: Amay Nirula’s background in engineering, product management, and business strategy.
+description: Six years managing large construction and industrial project portfolios as a project manager, now targeting tech product management roles.
 permalink: /about/
 eyebrow: About
-heading: A technical foundation, a product perspective.
-lede: I’m an engineer-turned PM who connects technical depth with business strategy to make progress in complex environments.
+heading: From project management to tech product management.
+lede: For six years, I’ve managed large construction and industrial project portfolios as a project manager. I’m now transitioning into tech product management and targeting technology product management roles.
 ---
 
 ## Where I started
