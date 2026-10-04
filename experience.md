@@ -28,7 +28,7 @@ San Jose, California · 2021–2025
 - Directed a **$47M+ portfolio of 50 new-construction projects**, aligning Sales, Manufacturing, Quality, and Operations teams and exceeding project targets by $300K in FY2024.
 - Positioned Otis One real-time monitoring devices to address elevator downtime, contributing **$1.5M in additional revenue** through upselling at approximately 30% margins.
 - Designed an external Kanban process for material delivery that generated **$350K in annual savings**.
-- Supported Bay Area market-share recovery by benchmarking competitor proposals and recommending strategic price adjustments.
+- Supported Bay Area market-share recovery by benchmarking competitor proposals and recommending strategic price adjustments to improve bid win rates.
 - Ranked in the top three among 45 project managers on KPIs while expanding operations from the South Bay across the Bay Area.
 - Took early ownership of a **$10M portfolio** during COVID-era onboarding gaps, using weekly manager office hours to ramp quickly and deliver projects on time with high client satisfaction.
 

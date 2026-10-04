@@ -10,23 +10,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Experience
-    url: /experience/
-  - title: Contact
-    url: /contact/
-
 exclude:
   - attached_assets
   - .agents
+  - .bundle
   - .local
   - .cache
   - .git
   - .gitignore
+  - .replit
   - PLAN.md
   - README.md
   - Gemfile

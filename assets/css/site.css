@@ -199,7 +199,7 @@ button:focus-visible {
 }
 
 .home__title {
-  max-width: 13ch;
+  max-width: 18ch;
   margin: 0;
   font-size: clamp(2.8rem, 8.4vw, 5.7rem);
   font-weight: 630;
