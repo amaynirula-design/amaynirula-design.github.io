@@ -1,0 +1,1 @@
+- [Jekyll preview dependencies](jekyll-preview-dependencies.md) — managed workflows use Bundler's configured install path, which may differ from an interactive shell.
