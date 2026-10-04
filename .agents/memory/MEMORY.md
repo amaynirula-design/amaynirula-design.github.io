@@ -1,1 +1,2 @@
 - [Jekyll preview dependencies](jekyll-preview-dependencies.md) — managed workflows use Bundler's configured install path, which may differ from an interactive shell.
+- [Experience copy limits](experience-copy-limits.md) — omit unknown details from Work Experience; do not display placeholders.
