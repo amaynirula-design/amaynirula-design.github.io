@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Amay Nirula — Product management
-description: Engineer-turned product manager connecting technical depth with business strategy.
+description: Project manager with six years managing large construction and industrial project portfolios, transitioning into tech product management.
 permalink: /
-eyebrow: Engineer-turned product manager · Berkeley Haas MBA
-hero_title: I connect engineering depth to product strategy.
-lede: I’m an engineer-turned product manager who bridges technical depth with business strategy to deliver results in complex environments.
+eyebrow: Project Management · Construction & Industrial Portfolios
+hero_title: I’m transitioning from project management to tech product management.
+lede: For six years, I’ve managed large construction and industrial project portfolios as a project manager. I’m now targeting technology product management roles.
 ---
 
 ## From complex work to clear direction
